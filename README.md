@@ -2,7 +2,7 @@
 
 jQuery is used for making AJAX requests, manipulating the DOM, and handling events in the browser.
 
-Utilizing the native DOM API built into all browsers, this project reveals how little of jQuery one may actually need.
+Utilizing the native DOM API built into all browsers, this project reveals how little of jQuery one may actually need when manipulating the DOM.
 
 ## Functionality
 
@@ -14,7 +14,7 @@ Utilizing the native DOM API built into all browsers, this project reveals how l
 
 ## Usage
 
-To use, load the `jquery_lite.js` file in the `<head>` of your HTML:
+To use, add the `jquery_lite.js` file in the `<head>` of your HTML:
 
 ```html
 <script type="text/javascript" src="path/to/jquery_lite.js"></script>

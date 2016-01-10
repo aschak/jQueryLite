@@ -230,7 +230,7 @@
     }
   };
 
-  // Add and remove event listeners without event delegation:
+  // Add and remove event listeners, although without event delegation:
 
   DOMNodeCollection.prototype.on = function (action, listener) {
     for (var i = 0; i < this.collection.length; i++) {
